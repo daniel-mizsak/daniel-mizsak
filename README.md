@@ -2,7 +2,7 @@
 
 <div align="center">
 <img src="https://img.shields.io/badge/learning-in%20progress-darkred" alt="learning status">
-<img src="https://img.shields.io/website?url=https%3A%2F%2Fpythonvilag.hu&up_message=online&down_message=offline&link=https%3A%2F%2Fpythonvilag.hu" alt="website status">
+<a href="https://pythonvilag.hu" target="_blank"><img src="https://img.shields.io/website?url=https%3A%2F%2Fpythonvilag.hu&up_message=online&down_message=offline&link=https%3A%2F%2Fpythonvilag.hu" alt="website status"></a>
 <img src="https://img.shields.io/github/followers/daniel-mizsak" alt="followers status">
 </div>
 
