@@ -16,17 +16,13 @@ I enjoy programming in Python and automating everything I can.
 
 ## 📈 Stats
 
-<a href="https://github-readme-stats.vercel.app/api?username=daniel-mizsak&show_icons=true&hide=contribs,prs&theme=transparent&custom_title=Open%20Source%20Contributions"><img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=daniel-mizsak&show_icons=true&hide=contribs,prs&theme=transparent&custom_title=Open%20Source%20Contributions" /></a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs?username=daniel-mizsak&layout=donut&langs_count=4&theme=transparent&card_width=300&custom_title=Languages"><img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniel-mizsak&layout=compact&langs_count=4&theme=transparent&card_width=300&custom_title=Languages" /></a>
+<a href="https://github-readme-stats.vercel.app/api?username=daniel-mizsak&show_icons=true&hide=contribs,prs&theme=transparent&custom_title=Open%20Source%20Contributions&disable_animations=true" target="_blank"><img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=daniel-mizsak&show_icons=true&hide=contribs,prs&theme=transparent&custom_title=Open%20Source%20Contributions&disable_animations=true" /></a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs?username=daniel-mizsak&layout=donut&langs_count=4&theme=transparent&card_width=300&custom_title=Languages&disable_animations=true" target="_blank"><img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniel-mizsak&layout=compact&langs_count=4&theme=transparent&card_width=300&custom_title=Languages&disable_animations=true" /></a>
 
 ## 🏢 Organizations
 
-<div style="display: flex; align-items: center;">
-  <a href="https://pythonvilag.hu/"><img height=100 align="center" src="https://github.com/PythonVilag.png?size=100" /></a><span>    pythonvilag.hu - Hungarian Python Tutorials</span>
-</div>
+| Organization | Website | Description |
+|:---------|:--------:|:------------|
+| <a href="https://github.com/PythonVilag" target="_blank"><img height=100 src="https://github.com/PythonVilag.png?size=100"></a> | [pythonvilag.hu](https://pythonvilag.hu) | Hungarian Python Tutorials |
+| <a href="https://github.com/mlops-top" target="_blank"><img height=100 src="https://github.com/mlops-top.png?size=100"></a> | [mlops.top](https://mlops.top) | MLOps Related Projects |
 
-<br>
-
-<div style="display: flex; align-items: center;">
-  <a href="https://mlops.top/"><img height=100 align="center" src="https://github.com/mlops-top.png?size=100" /></a><span>    mlops.top - MLOps Related Projects</span>
-</div>
