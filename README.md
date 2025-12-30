@@ -31,7 +31,7 @@ I enjoy programming in Python and automating everything I can.
 
 <div align="center">
     <a href="https://grs.lnkr.by/api?username=daniel-mizsak&show_icons=true&hide=contribs,prs&theme=transparent&custom_title=Open%20Source%20Contributions&disable_animations=true" target="_blank"><img height=150 align="center" src="https://grs.lnkr.by/api?username=daniel-mizsak&show_icons=true&hide=contribs,prs&theme=transparent&custom_title=Open%20Source%20Contributions&disable_animations=true" /></a>
-    <a href="https://grs.lnkr.by/api/top-langs?username=daniel-mizsak&layout=donut&langs_count=4&theme=transparent&card_width=300&custom_title=Languages&disable_animations=true" target="_blank"><img height=150 align="center" src="https://grs.lnkr.by/api/top-langs?username=daniel-mizsak&layout=compact&langs_count=4&theme=transparent&card_width=300&custom_title=Languages&disable_animations=true" /></a>
+    <a href="https://grs.lnkr.by/api/top-langs?username=daniel-mizsak&layout=compact&langs_count=4&theme=transparent&card_width=350&custom_title=Languages&disable_animations=true" target="_blank"><img height=150 align="center" src="https://grs.lnkr.by/api/top-langs?username=daniel-mizsak&layout=compact&langs_count=4&theme=transparent&card_width=350&custom_title=Languages&disable_animations=true" /></a>
 </div>
 
 ## 🏢 Organizations
