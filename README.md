@@ -18,13 +18,21 @@ I enjoy programming in Python and automating everything I can.
 ### Programming
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,cs,git,pytorch,nix" />
+    <a href="https://python.org/" target="_blank"><img src="./assets/skills/python.svg" width="60" alt="python" /></a>
+    <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"><img src="./assets/skills/cs.svg" width="60" alt="c#" /></a>
+    <a href="https://git-scm.com/" target="_blank"><img src="./assets/skills/git.svg" width="60" alt="git" /></a>
+    <a href="https://pytorch.org/" target="_blank"><img src="./assets/skills/pytorch.svg" width="60" alt="pytorch" /></a>
+    <a href="https://nixos.org/" target="_blank"><img src="./assets/skills/nix.svg" width="60" alt="nix" /></a>
 </p>
 
 ### Infrastructure
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=linux,docker,ansible,githubactions,azure" />
+    <a href="https://linux.org/" target="_blank"><img src="./assets/skills/linux.svg" width="60" alt="linux" /></a>
+    <a href="https://docker.com/" target="_blank"><img src="./assets/skills/docker.svg" width="60" alt="docker" /></a>
+    <a href="https://ansible.com/" target="_blank"><img src="./assets/skills/ansible.svg" width="60" alt="ansible" /></a>
+    <a href="https://github.com/features/actions" target="_blank"><img src="./assets/skills/githubactions.svg" width="60" alt="github actions" /></a>
+    <a href="https://azure.microsoft.com/" target="_blank"><img src="./assets/skills/azure.svg" width="60" alt="azure" /></a>
 </p>
 
 ## 📈 Stats
