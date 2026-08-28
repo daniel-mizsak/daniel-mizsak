@@ -15,32 +15,34 @@ I enjoy programming in Python and automating everything I can.
 
 ## 🛠️ Tools
 
-### Programming
+### Languages & Frameworks
 
 <p align="center">
     <a href="https://python.org/" target="_blank"><img src="./assets/skills/python.svg" width="60" alt="python" /></a>
     <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"><img src="./assets/skills/cs.svg" width="60" alt="c#" /></a>
-    <a href="https://git-scm.com/" target="_blank"><img src="./assets/skills/git.svg" width="60" alt="git" /></a>
+    <a href="https://go.dev/" target="_blank"><img src="./assets/skills/go.svg" width="60" alt="go" /></a>
+    <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="./assets/skills/fastapi.svg" width="60" alt="fastapi" /></a>
     <a href="https://pytorch.org/" target="_blank"><img src="./assets/skills/pytorch.svg" width="60" alt="pytorch" /></a>
-    <a href="https://nixos.org/" target="_blank"><img src="./assets/skills/nix.svg" width="60" alt="nix" /></a>
 </p>
 
-### Infrastructure
+### DevOps & IaC
 
 <p align="center">
-    <a href="https://linux.org/" target="_blank"><img src="./assets/skills/linux.svg" width="60" alt="linux" /></a>
+    <a href="https://git-scm.com/" target="_blank"><img src="./assets/skills/git.svg" width="60" alt="git" /></a>
     <a href="https://docker.com/" target="_blank"><img src="./assets/skills/docker.svg" width="60" alt="docker" /></a>
     <a href="https://ansible.com/" target="_blank"><img src="./assets/skills/ansible.svg" width="60" alt="ansible" /></a>
+    <a href="https://pulumi.com/" target="_blank"><img src="./assets/skills/pulumi.svg" width="60" alt="pulumi" /></a>
     <a href="https://github.com/features/actions" target="_blank"><img src="./assets/skills/githubactions.svg" width="60" alt="github actions" /></a>
-    <a href="https://azure.microsoft.com/" target="_blank"><img src="./assets/skills/azure.svg" width="60" alt="azure" /></a>
 </p>
 
-## 📈 Stats
+### Cloud & OS
 
-<div align="center">
-    <a href="https://grs.lnkr.by/api?username=daniel-mizsak&show_icons=true&hide=contribs,prs&theme=transparent&custom_title=Open%20Source%20Contributions&disable_animations=true" target="_blank"><img height=150 align="center" src="https://grs.lnkr.by/api?username=daniel-mizsak&show_icons=true&hide=contribs,prs&theme=transparent&custom_title=Open%20Source%20Contributions&disable_animations=true" /></a>
-    <a href="https://grs.lnkr.by/api/top-langs?username=daniel-mizsak&layout=compact&langs_count=4&theme=transparent&card_width=350&custom_title=Languages&disable_animations=true" target="_blank"><img height=150 align="center" src="https://grs.lnkr.by/api/top-langs?username=daniel-mizsak&layout=compact&langs_count=4&theme=transparent&card_width=350&custom_title=Languages&disable_animations=true" /></a>
-</div>
+<p align="center">
+    <a href="https://azure.microsoft.com/" target="_blank"><img src="./assets/skills/azure.svg" width="60" alt="azure" /></a>
+    <a href="https://aws.amazon.com/" target="_blank"><img src="./assets/skills/aws.svg" width="60" alt="aws" /></a>
+    <a href="https://linux.org/" target="_blank"><img src="./assets/skills/linux.svg" width="60" alt="linux" /></a>
+    <a href="https://nixos.org/" target="_blank"><img src="./assets/skills/nix.svg" width="60" alt="nix" /></a>
+</p>
 
 ## 🏢 Organizations
 
